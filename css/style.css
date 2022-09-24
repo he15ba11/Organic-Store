@@ -121,6 +121,7 @@ main.home .main-container p {
   color: #dadada;
 }
 main.home .menu {
+display: none; 
   background-color: #0d1326;
   position: fixed;
   top: 86px;
